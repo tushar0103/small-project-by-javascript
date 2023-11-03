@@ -6,7 +6,7 @@ const tempLoad=()=>{
     temp.innerHTML="&#xf2cb";
     
 
-    setTimeout(()=>{
+    setTimeout(()=>{ 
         temp.innerHTML="&#xf2cb";
         temp.style.color="#f8b627";
     },1000);
